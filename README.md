@@ -15,7 +15,11 @@ I’m a passionate Ai Engineer with a focus on Machine Learning, Python developm
 
 <h3 align="center"> 🔥 Highlights </h3>
 
-- 💻 **Experienced Machine Learning Engineer** with a focus on real-time AI solutions
+- 💻 Experienced Machine Learning Engineer with a focus on real-time AI solutions
+📊 Proficient in data preprocessing, feature engineering, and model optimization
+🧠 Hands-on expertise in deploying ML models using Flask and REST APIs
+📈 Strong understanding of supervised, unsupervised, and deep learning techniques
+🛠 Skilled in using tools like scikit-learn, TensorFlow, Pandas, and NumPy for end-to-end ML pipelines
 ---
 
 <h3 align="center"> 🚀 Skills & Technologies </h3>
