@@ -1,12 +1,17 @@
-<!-- Profile Introduction -->
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/szVfRbi.jpg" width="100%" alt="Fire Banner">
+</p>
+
+<!-- Intro Typing Animation -->
 <p align="center">
   <a href="https://github.com/ahmad0702">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1500&pause=1500&color=FF4500&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ahmad!;Welcome+to+My+Fiery+GitHub+Profile!" alt="Muhammad Ahmad"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1500&pause=1500&color=FF4500&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ahmad!;Welcome+to+My+GitHub+Profile!" alt="Muhammad Ahmad"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF6347&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Backend+Developer;Fuelled+by+Passion+and+Code" alt="About Me">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF6347&center=true&vCenter=true&width=800&lines=AI+Engineer;Backend+Developer;Fuelled+by+Code+and+Curiosity" alt="About Me">
 </p>
 
 <p align="center">
@@ -15,52 +20,38 @@
 
 ---
 
-<h2 align="center" style="color:#FF4500">🔥 My Skills & Tools</h2>
+<h2 align="center">🔥 My Tech Stack</h2>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-FF6347.svg?logo=python&logoColor=white&style=for-the-badge">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-FF4500.svg?logo=html5&logoColor=white&style=for-the-badge">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-FF6347.svg?logo=css3&logoColor=white&style=for-the-badge">
 </p>
 
-### 🧰 Backend Development
+### 🧰 Backend & Databases
 <p align="center">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-FF4500.svg?logo=flask&logoColor=white&style=for-the-badge">
-</p>
-
-### 💻 Databases
-<p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FF6347.svg?logo=mysql&logoColor=white&style=for-the-badge">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-FF4500.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
 </p>
 
-### ⚙️ DevOps & Deployment
+### ⚙️ DevOps & Tools
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-FF4500.svg?logo=docker&logoColor=white&style=for-the-badge">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-FF6347.svg?logo=github-actions&logoColor=white&style=for-the-badge">
   <img alt="Portainer" src="https://img.shields.io/badge/Portainer-FF4500.svg?logo=portainer&logoColor=white&style=for-the-badge">
 </p>
 
-### ☁️ Hosting Platforms
+### ☁️ Cloud & Hosting
 <p align="center">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-FF4500.svg?logo=microsoftazure&logoColor=white&style=for-the-badge">
   <img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-FF6347.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
 </p>
 
-### 🛠️ Other Tools & Platforms
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-FF6347.svg?logo=git&logoColor=white&style=for-the-badge">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FF4500.svg?logo=github&logoColor=white&style=for-the-badge">
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FF6347.svg?logo=gitlab&logoColor=white&style=for-the-badge">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-FF4500.svg?logo=cloudflare&logoColor=white&style=for-the-badge">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FF6347.svg?logo=stack-overflow&logoColor=white&style=for-the-badge">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF4500.svg?logo=postman&logoColor=white&style=for-the-badge">
-</p>
-
 ---
 
-<h2 align="center" style="color:#FF4500">🔥 GitHub Stats & Activity</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img 
@@ -92,7 +83,7 @@
 
 ---
 
-<h2 align="center" style="color:#FF4500">📫 Let's Connect</h2>
+<h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="mailto:ahmadashraf0702@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-ahmadashraf0702@gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white">
@@ -105,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxohU7HIs2SkGk/giphy.gif" width="200px" alt="Fire Animation">
+  <img src="https://media.giphy.com/media/3o7TKxohU7HIs2SkGk/giphy.gif" width="150px" alt="Fire Animation">
 </p>
