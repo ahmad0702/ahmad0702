@@ -19,13 +19,13 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=Pyhton-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/Html%23-68217A.svg?logo=Html2&logoColor=white&style=for-the-badge">
+  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/Html23-68217A.svg?logo=Html2&logoColor=white&style=for-the-badge">
   <img alt="Css" src="https://custom-icon-badges.demolab.com/badge/Css-FF4500.svg?logo=Css&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>🧰 Backend Development</h3>
 <p align="center">
-  <img alt="Flask" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>💻 Databases</h3>
@@ -39,13 +39,12 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge">
   <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white&style=for-the-badge">
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>☁️ Hosting Platforms</h3>
 <p align="center">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white&style=for-the-badge">
-  <img alt="Pythomanywhere" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
+  <img alt="Pythomanywhere" src="https://img.shields.io/badge/Pythonanywhere-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>Other</h3>
@@ -56,8 +55,6 @@
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white&style=for-the-badge">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
-  <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains%20IDE-000000?logo=jetbrains&logoColor=white&style=for-the-badge">
-
 </p>
 
 ---
@@ -78,23 +75,23 @@
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      alt="Marvin Le's GitHub Stats" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=marv1n-le&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      alt="Muhammad Ahmad's GitHub Stats" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ahmad0702-le&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
       height="192px"/>
   </a>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ahmad0702/github-readme-stats">
     <img 
-      alt="Marvin Le's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=marv1n-le&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+      alt="Muhammad Ahmad's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702-le&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
       height="192px"/>
   </a>
   
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marv1n-le&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad0702&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
   </a>
 </p>
 
@@ -102,10 +99,10 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="mailto:ducanhle.iter@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-ducanhle.iter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="ahmadashraf0702@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-ahmaashraf0702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/duwcsanhh">
+  <a href="(https://www.facebook.com/)">
     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
