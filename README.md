@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-ahmadashraf0702@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
 </p>
 
 <h2 align="center">🛠️ My skills and tools</h2>
