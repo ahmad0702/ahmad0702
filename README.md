@@ -1,69 +1,112 @@
-<h1 align="center">Hi, I'm Muhammad Ahmad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=20B2AA&center=true&width=500&lines=Unlocking+AI+Potential+IN+BSAI;Python+Developer;Flask+Specialist;ML+Model+Trainer;Data+Vistualizer;Graphics+Designer;Video+Editor!">
+  <a href="https://github.com/marv1n-le">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marvin+Le!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Developer" alt="Description">
+</p>
+
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-0377--137--787-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-ducanhle.iter@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
+</p>
+
+<h2 align="center">🛠️ My skills and tools</h2>
+
+<h3>👨‍💻 Programming Languages</h3>
+<p align="center">
+  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
+  <img alt="HTML#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
+  <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/Java-FF4500.svg?logo=java&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🧰 Backend Development</h3>
+<p align="center">
+  <img alt="Flask" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>💻 Databases</h3>
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>⚙️ DevOps & Deployment</h3>
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge">
+  <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white&style=for-the-badge">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>☁️ Hosting Platforms</h3>
+<p align="center">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white&style=for-the-badge">
+  <img alt="Pythomanywhere" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>Other</h3>
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white&style=for-the-badge">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
+  <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains%20IDE-000000?logo=jetbrains&logoColor=white&style=for-the-badge">
+
 </p>
 
 ---
 
-<h3 align="center"> 🚀 About Me </h3>
+<h2 align="center">🌟 GitHub Profile Highlights</h2>
+
 <p align="center">
-I’m a passionate Ai Engineer with a focus on Machine Learning, Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
+  <a href="https://github.com/marv1n-le">
+    <img 
+      alt="Marvin's Streak Stats" 
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=marv1n-le&theme=monokai-metallian&hide_border=true" 
+      height="192px"/>
+  </a>
+</p>
+
+<!-- GitHub Profile Stats Section -->
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Marvin Le's GitHub Stats" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=marv1n-le&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      height="192px"/>
+  </a>
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Marvin Le's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=marv1n-le&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+      height="192px"/>
+  </a>
+  
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marv1n-le&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center"> 🔥 Highlights </h3>
-
-- 💻 Experienced Machine Learning Engineer with a focus on real-time AI solutions
-- 📊 Proficient in data preprocessing, feature engineering, and model optimization
-- 🧠 Hands-on expertise in deploying ML models using Flask and REST APIs
-- 📈 Strong understanding of supervised, unsupervised, and deep learning techniques
-- 🛠 Skilled in using tools like scikit-learn, TensorFlow, Pandas, and NumPy for end-to-end ML pipelines
----
-
-<h3 align="center"> 🚀 Skills & Technologies </h3>
+<h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,html,css,flask,github,php,linux,vscode,git" alt="skills" />
-</p>
-
----
-
-<h3 align="center"> 📊 GitHub Stats </h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad0702&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702&layout=compact&hide_border=true&theme=algolia" />
-</p>
-
----
-
-<h3 align="center"> 🏆 Trophies & Achievements </h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmad0702&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-<h3 align="center"> 🔧 Tools I Use </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,ps,ai,blender" alt="tools" />
-</p>
-
----
-<h3 align="center"> 🌐 Let's Connect! </h3>
-  <a href="https://www.linkedin.com/in/ahmad0702/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ahmad0702" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ahmadashraf0702@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<!-- ---
-
-<!-- <h3 align="center"> 📈 Weekly Development Breakdown </h3>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmad0702&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="mailto:ducanhle.iter@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-ducanhle.iter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/duwcsanhh">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
 </p>
