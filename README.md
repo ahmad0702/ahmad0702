@@ -18,8 +18,8 @@
 
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
-  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/Html%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
+  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=Pyhton-in-hexagon&logoColor=white&style=for-the-badge">
+  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/Html%23-68217A.svg?logo=Html2&logoColor=white&style=for-the-badge">
   <img alt="Css" src="https://custom-icon-badges.demolab.com/badge/Css-FF4500.svg?logo=Css&logoColor=white&style=for-the-badge">
 </p>
 
