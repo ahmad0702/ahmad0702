@@ -25,7 +25,7 @@
 
 ### 🧰 Backend Development
 <p align="center">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-4B8BBE.svg?logo=flask&logoColor=white&style=for-the-badge">
 </p>
 
 ### 💻 Databases
