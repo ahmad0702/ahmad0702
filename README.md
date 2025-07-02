@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Backend+Developer;Learning+Something+New+Everyday" alt="About Me">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=AI+Enthusiast;ML+Developer;Data+Analyst;Backend+Developer;Graphics+Designer;Video+Editor;Learning+Something+New+Everyday" alt="About Me">
 </p>
 
 <p align="center">
