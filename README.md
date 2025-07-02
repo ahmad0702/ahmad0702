@@ -24,7 +24,7 @@
 
 <h3>🧰 Backend Development</h3>
 <p align="center">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-512BD4.svg?logo=flask&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>💻 Databases</h3>
