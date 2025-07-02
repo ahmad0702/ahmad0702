@@ -5,13 +5,12 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Developer" alt="Description">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+AI+Engineer" alt="Description">
 </p>
 
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-0377--137--787-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-ducanhle.iter@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-ahmadashraf0702@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Ho%20Chi%20Minh-Viet%20Nam-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
 </p>
 
@@ -20,8 +19,8 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p align="center">
   <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="HTML#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
-  <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/Java-FF4500.svg?logo=java&logoColor=white&style=for-the-badge">
+  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
+  <img alt="Css" src="https://custom-icon-badges.demolab.com/badge/Java-FF4500.svg?logo=java&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>🧰 Backend Development</h3>
