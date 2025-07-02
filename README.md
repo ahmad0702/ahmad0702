@@ -1,52 +1,53 @@
-
 <p align="center">
-  <a href="https://github.com/marv1n-le">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ahmad!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
+  <a href="https://github.com/ahmad0702">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ahmad!;Welcome+to+My+GitHub+Profile!" alt="Muhammad Ahmad"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+AI+Engineer" alt="Description">
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=E2A84E&center=true&vCenter=true&width=800&lines=Passionate+AI+Engineer;Aspiring+Problem+Solver;Backend+Developer" alt="About Me">
+</p>
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-ahmadashraf0702@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
 </p>
 
-<h2 align="center">🛠️ My skills and tools</h2>
+---
 
-<h3>👨‍💻 Programming Languages</h3>
+<h2 align="center">🛠️ My Skills & Tools</h2>
+
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=Pyhton-in-hexagon&logoColor=white&style=for-the-badge">
-  <img alt="Html#" src="https://custom-icon-badges.demolab.com/badge/Html23-68217A.svg?logo=Html2&logoColor=white&style=for-the-badge">
-  <img alt="Css" src="https://custom-icon-badges.demolab.com/badge/Css-FF4500.svg?logo=Css&logoColor=white&style=for-the-badge">
+  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=Python-in-hexagon&logoColor=white&style=for-the-badge">
+  <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+  <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>🧰 Backend Development</h3>
+### 🧰 Backend Development
 <p align="center">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-512BD4.svg?logo=flask&logoColor=white&style=for-the-badge">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>💻 Databases</h3>
+### 💻 Databases
 <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>⚙️ DevOps & Deployment</h3>
+### ⚙️ DevOps & Deployment
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge">
   <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>☁️ Hosting Platforms</h3>
+### ☁️ Hosting Platforms
 <p align="center">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white&style=for-the-badge">
-  <img alt="Pythomanywhere" src="https://img.shields.io/badge/Pythonanywhere-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
+  <img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-0080FF.svg?logo=digitalocean&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>Other</h3>
+### 🛠️ Other Tools & Platforms
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge">
@@ -61,47 +62,41 @@
 <h2 align="center">🌟 GitHub Profile Highlights</h2>
 
 <p align="center">
-  <a href="https://github.com/marv1n-le">
-    <img 
-      alt="Marvin's Streak Stats" 
-      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=marv1n-le&theme=monokai-metallian&hide_border=true" 
-      height="192px"/>
-  </a>
+  <img 
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad0702&theme=monokai-metallian&hide_border=true" 
+    height="192px"/>
 </p>
 
-<!-- GitHub Profile Stats Section -->
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Muhammad Ahmad's GitHub Stats" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ahmad0702-le&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-      height="192px"/>
-  </a>
-  
-  <!-- Top Languages Card -->
-  <a href="https://github.com/ahmad0702/github-readme-stats">
-    <img 
-      alt="Muhammad Ahmad's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702-le&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-      height="192px"/>
-  </a>
-  
-  <br/>
+  <img 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=ahmad0702&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+    height="192px"/>
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad0702&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
-  </a>
+<p align="center">
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+    height="192px"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad0702&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" 
+    width="100%" 
+    alt="Contribution Graph"/>
 </p>
 
 ---
 
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="ahmadashraf0702@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-ahmaashraf0702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:ahmadashraf0702@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-ahmadashraf0702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="(https://www.facebook.com/)">
+  <a href="https://www.facebook.com/">
     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
