@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/marv1n-le">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Marvin+Le!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&duration=1500&pause=1500&color=E6AF7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Ahmad!;Welcome+to+My+GitHub+Profile!" alt="Marvin Le"/>
   </a>
 </p>
 <p align="center">
